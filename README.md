@@ -1,6 +1,6 @@
 # Hi, I'm Arun 👋
 
-I'm a Frontend Engineer with 10+ years of experience building web and mobile products across **Healthcare** and **FinTech**.
+I'm a Full-Stack Engineer with 10+ years of experience building web and mobile products across **Healthcare** and **FinTech**.
 
 I care about the full picture: architecture that scales, interfaces that are accessible, and code that the next engineer can actually work with.
 
