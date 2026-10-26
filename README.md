@@ -1,6 +1,6 @@
 # Hi, I'm Arun
 
-Full-stack engineer. I've spent ten years building healthcare and banking software, and I ship my own products on the side. Mostly in TypeScript.
+Full-stack engineer. I've spent ten years building regulated, mission-critical software in healthcare and banking, and I ship my own products on the side. Mostly in TypeScript.
 
 I like the whole path: the data model, the API, the interface, and the person on the other side of it.
 
@@ -32,4 +32,4 @@ TypeScript end to end. React and Node. PostgreSQL and MongoDB. Tests where they 
 
 ---
 
-Currently looking for senior full-stack roles in healthcare or products with real-world constraints.
+Currently looking for senior full-stack roles on products where correctness, scale, and real-world constraints matter.
